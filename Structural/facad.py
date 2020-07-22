@@ -12,7 +12,7 @@ class Cook:
 
 class ItalianResturant:
     def get(self):
-        r = Raw()
+        r = Raw()-
         r.raw()
 
         t = Transfer()
